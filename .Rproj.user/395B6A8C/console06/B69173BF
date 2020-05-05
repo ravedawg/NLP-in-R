@@ -15,3 +15,17 @@ The most similar command is
 Nothing specified, nothing added.
 Maybe you wanted to say 'git add .'?
 ]0;~/RStudioProjects/NLPRavens-MacBook-Pro:NLP ravenholm$ git add .
+]0;~/RStudioProjects/NLPRavens-MacBook-Pro:NLP ravenholm$ git commit -m initial commit
+error: pathspec 'commit' did not match any file(s) known to git
+]0;~/RStudioProjects/NLPRavens-MacBook-Pro:NLP ravenholm$ git commit -m initial commit"[C[1@ [1@"[C[1P
+[master (root-commit) a7406e8] initial commit
+ 6 files changed, 96 insertions(+)
+ create mode 100644 .Rproj.user/395B6A8C/console06/B69173BF
+ create mode 100644 .Rproj.user/395B6A8C/console06/B69173BF.env
+ create mode 100644 .Rproj.user/395B6A8C/console06/INDEX001
+ create mode 100644 .Rproj.user/395B6A8C/sources/s-579B2B68/lock_file
+ create mode 100644 .Rproj.user/shared/notebooks/patch-chunk-names
+ create mode 100644 NLP.Rproj
+git init
+Reinitialized existing Git repository in /Users/ravenholm/RStudioProjects/NLP-in-R/.git/
+]0;~/RStudioProjects/NLP-in-RRavens-MacBook-Pro:NLP-in-R ravenholm$ git add .
