@@ -1,0 +1,17 @@
+]0;~/RStudioProjects/NLP[?1034hRavens-MacBook-Pro:NLP ravenholm$ [KRavens-MacBook-Pro:NLP ravenholm$ ls
+NLP.Rproj
+]0;~/RStudioProjects/NLPRavens-MacBook-Pro:NLP ravenholm$ cd NLP.RProj[K[K[K[K[K[K[K[K[K[K[K[Kcd ..
+]0;~/RStudioProjectsRavens-MacBook-Pro:RStudioProjects ravenholm$ ls
+Github_access.txt	NLP			Test
+]0;~/RStudioProjectsRavens-MacBook-Pro:RStudioProjects ravenholm$ git init[K[K[K[K[K[K[K[Kcd NLP
+]0;~/RStudioProjects/NLPRavens-MacBook-Pro:NLP ravenholm$ git init
+Initialized empty Git repository in /Users/ravenholm/RStudioProjects/NLP/.git/
+]0;~/RStudioProjects/NLPRavens-MacBook-Pro:NLP ravenholm$ git add p[K[K.
+git: 'add.' is not a git command. See 'git --help'.
+
+The most similar command is
+	add
+]0;~/RStudioProjects/NLPRavens-MacBook-Pro:NLP ravenholm$ git add
+Nothing specified, nothing added.
+Maybe you wanted to say 'git add .'?
+]0;~/RStudioProjects/NLPRavens-MacBook-Pro:NLP ravenholm$ git add .
